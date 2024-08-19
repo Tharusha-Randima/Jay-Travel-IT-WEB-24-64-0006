@@ -24,6 +24,9 @@
 .navbar-nav{
     font-size: 20px;
 }
+.card_content a{
+    text-decoration: none;
+}
 
 /* 02 */
 .banner_01{
